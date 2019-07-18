@@ -1,0 +1,1 @@
+web: java -jar target/bolletta-main-1.0-SNAPSHOT.jar
